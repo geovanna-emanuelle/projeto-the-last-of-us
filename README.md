@@ -1,6 +1,6 @@
 # Projeto 'The Last of Us'
 
->Status: Finalizado.
+> Status: Finalizado.
 
 Projeto desenvolvido durante uma imersão, junto com os irmãos do Dev em Dobro.
 
