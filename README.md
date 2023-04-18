@@ -2,9 +2,9 @@
 
 >Status: Finalizado.
 
-Projeto desenvolvido juntos com os irmãos do Dev em Dobro, durante uma imersão.
+Projeto desenvolvido durante uma imersão, junto com os irmãos do Dev em Dobro.
 
-## Linguagens utilizadas
+## ✔️ Linguagens utilizadas
 
 - ``HTML``
 - ``CSS``
